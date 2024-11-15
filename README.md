@@ -8,6 +8,6 @@
 
  ## Xor 
 
- <img src="./XorSCR.png" />
+ <img src="./Screenshot 2024-11-15 152334.png" />
 
 
